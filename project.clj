@@ -1,4 +1,4 @@
-(defproject cljs-ssr-app/lein-template "0.1.0"
+(defproject cljs-ssr-app/lein-template "0.1.1-SNAPSHOT"
   :description "Created with lein-create-template"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
