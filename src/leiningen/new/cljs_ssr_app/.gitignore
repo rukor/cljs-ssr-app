@@ -1,0 +1,10 @@
+.idea
+*.iml
+node_modules/
+resources/server
+resources/server
+resources/public/js/out
+*.jar
+*.class
+npm-debug.log
+*.log
